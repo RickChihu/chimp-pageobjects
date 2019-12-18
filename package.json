@@ -1,0 +1,14 @@
+{
+  "name": "intersog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/chimp/bin/chimp.js --browser=firefox"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chimp": "^0.51.1"
+  }
+}
